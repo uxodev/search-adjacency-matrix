@@ -1,0 +1,10 @@
+File used: Test1_am.txt
+Format:
+source node = |queue node:edges from start:via node|
+Priority queue after expanding node:
+S = |A:8:S| |B:9:S| 
+A = |B:8:A| 
+B = |G:11:B| 
+Goal found: G
+Route to goal:
+S A B G
